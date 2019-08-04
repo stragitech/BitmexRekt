@@ -1,4 +1,4 @@
-#Bitmex Rekt
+# Bitmex Rekt
 
 ##	Overview and Origin
 Bitmex.com was incorporated in 2014 and is owned by HDR Global Limited in the Seychelles Islands by Arthur Hayes, Ben Delo, and Samuel Reed. Today it is the largest bitcoin derivatives exchange boasting over $1 trillion in 365 day notional trade volume. Its staple Perpetual Bitcoin Futures Contract is the most traded bitcoin instrument. The idea for the company stared out when the co-founder Arthur Hayes was making money on arbitraging with physical cash buying dollar priced bitcoin and selling it in mainland China to profit on the premium. The company was initially funded by money from their friends and family. Over time the three cofounders came together and used their combined experience in investment banking, and high frequency trading systems for hedge funds to build a product that as they believed would benefit from the global shift in the way we use money with bitcoin, and wanted to profit from that change by taking advantage of its volatility. 
